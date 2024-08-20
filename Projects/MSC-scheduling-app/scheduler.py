@@ -97,8 +97,5 @@ if __name__ == "__main__":
   main()
 
 
-# SPREADSHEET_ID = ''
-# API_KEY = 'AIzaSyCKgzekY18qYtQn2ILb3vS23Vjg8oxZhUE'
-
 # def authenticate_sheets(api_key):
 #  return build('sheets', 'v4', developerKey = api_key).spreadsheets()
